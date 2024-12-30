@@ -12,7 +12,7 @@ $ git config --global user.email "email@example.com"
 ```bash
 git config --list
 ```
-
+skjvks
 
 ### 工作区、暂存区和版本库的区别
 - 工作区：在电脑里能看到的目录；
